@@ -104,7 +104,7 @@ var startGame = function () {
         }
     }
     // play again
-    startGame();
+    endGame();
 
 };
 
